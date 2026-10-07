@@ -1,0 +1,32 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Node / React
+node_modules/
+dist/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Dataset
+data/
+*.parquet
+
+# VS Code temporary files
+tempCodeRunnerFile.py
+**/tempCodeRunnerFile.py
+
+# Trained models
+models/
+*.pkl
+

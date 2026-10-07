@@ -1,0 +1,2 @@
+﻿Model,Accuracy,Macro Precision,Macro Recall,Macro F1,Weighted F1,Stage1 Trees,Stage2 Trees,Stage2A Trees,Stage3 Trees,Keep Ratio,Double Fault Threshold
+Hierarchical Enhanced Random Forest,0.9985657494371332,0.9125115813300474,0.937977615086114,0.9237767805466269,0.9985775211944689,120,120,120,20,0.6,0.02
